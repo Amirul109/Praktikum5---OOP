@@ -6,6 +6,8 @@
 # Dosen Pengampu : pak Agung Nugroho S.kom,M.Kom #
 
 * Penjelasan Program class dengan Constructor*
+
+
 ^ constructur dari class Pegawai
 ![tampil](https://user-images.githubusercontent.com/116171779/203690500-7bf6712a-0a9f-4de8-8c69-1dc0c9fed01a.png)
 
